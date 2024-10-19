@@ -51,11 +51,11 @@ int main(void)
 
 
 ## OUTPUT
-
+```
 localhost:~# ./a.out
 The process id: 2397
 The process id of parent function: 2261
-
+```
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
